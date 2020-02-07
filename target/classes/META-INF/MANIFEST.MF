@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel :: Example :: Spring Boot with REST DSL an
+ d Swagger
+Implementation-Version: 2.2.4.RELEASE
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+
